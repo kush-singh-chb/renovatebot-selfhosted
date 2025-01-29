@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "renovate": "^32.59.1"
+    "renovate": "^39.133.4"
+  },
+  "scripts": {
+    "start": "renovate"
   }
 }
